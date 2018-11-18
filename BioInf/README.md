@@ -1,6 +1,6 @@
 - Small parsimony
 - Large parsimony
-- Read [https://academic.oup.com/mbe/article/4/4/406/1029664)
+- Read [NJ](https://academic.oup.com/mbe/article/4/4/406/1029664)
 - Are all linear affine scoring schemes O(n**2)? (iff?)
 
 ## Group 1
